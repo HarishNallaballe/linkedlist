@@ -1,3 +1,7 @@
+
 task102{
 lksdnklnads
+
+public void displaytask101(){
+kdjsbvsdn
 }
